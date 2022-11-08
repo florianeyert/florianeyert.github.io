@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>second on Florian Eyert</title>
-    <link>https://example.com/tags/second/</link>
+    <link>https://florianeyert.github.io/tags/second/</link>
     <description>Recent content in second on Florian Eyert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/second/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://florianeyert.github.io/tags/second/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>https://example.com/blog/blog2/</link>
+      <link>https://florianeyert.github.io/blog/blog2/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/blog2/</guid>
+      <guid>https://florianeyert.github.io/blog/blog2/</guid>
       <description>Testing.</description>
     </item>
     
