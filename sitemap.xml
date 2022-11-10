@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://florianeyert.github.io/blog/blog1/</loc>
+    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://florianeyert.github.io/blog/blog2/</loc>
+    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://florianeyert.github.io/tags/blog/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,16 +20,10 @@
     <loc>https://florianeyert.github.io/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://florianeyert.github.io/blog/blog1/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://florianeyert.github.io/tags/post/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://florianeyert.github.io/tags/second/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://florianeyert.github.io/blog/blog2/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://florianeyert.github.io/tags/</loc>
